@@ -19,3 +19,6 @@ git commit -m "Solution"
 git branch -M main
 mamathagithub2
 git commit -m "Solution"
+git add -A
+git commit -m "Solution"
+git branch -M main

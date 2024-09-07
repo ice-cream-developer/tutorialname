@@ -14,3 +14,8 @@ git commit -m "Solution"
 git branch -M main
 https://github.com/user/repo.git
 git@github.com:user/repo.git
+git add -A
+git commit -m "Solution"
+git branch -M main
+mamathagithub2
+git commit -m "Solution"

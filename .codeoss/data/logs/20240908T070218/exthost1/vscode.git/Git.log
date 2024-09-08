@@ -1,0 +1,19 @@
+2024-09-08 07:02:37.242 [info] Log level: Info
+2024-09-08 07:02:37.242 [info] Validating found git in: "git"
+2024-09-08 07:02:37.242 [info] Using git "2.34.1" from "git"
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [20ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-09-08 07:02:37.242 [info] Open repository: /home/mamathauthkam
+2024-09-08 07:02:37.242 [info] > git config --get commit.template [10ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [5ms]
+2024-09-08 07:02:37.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [13ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-08 07:02:37.242 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-08 07:02:37.260 [info] > git status -z -uall [71ms]
+2024-09-08 07:02:37.286 [info] > git config --get commit.template [8ms]
+2024-09-08 07:02:37.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-09-08 07:02:37.297 [info] > git status -z -uall [4ms]
+2024-09-08 07:02:46.424 [info] > git check-ignore -v -z --stdin [5ms]

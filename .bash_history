@@ -25,3 +25,9 @@ git branch -M main
 git add -A
 git commit -m "Solution"
 git branch -M main
+git add -A
+git commit -m "Solution"
+git branch -M main
+ice-cream-developer
+git push -u origin main
+ice-cream-developer

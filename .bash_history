@@ -34,3 +34,6 @@ ice-cream-developer
 git add -A
 git commit -m "Solution"
 git branch -M main
+git add -A
+git commit -m "Solution"
+git branch -M main

@@ -1,0 +1,21 @@
+2024-09-10 08:15:18.531 [info] Extension host with pid 1170 started
+2024-09-10 08:15:18.543 [info] Lock '/home/mamathauthkam/.codeoss/data/User/workspaceStorage/-1c3b3f4a/vscode.lock': Lock acquired.
+2024-09-10 08:15:19.090 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-10 08:15:21.978 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-10 08:15:21.978 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-10 08:15:23.273 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-09-10 08:15:26.093 [info] Not activating extension 'hashicorp.terraform': Timed out while searching for 'workspaceContains' pattern **/*.tf,**/*.tfvars
+2024-09-10 08:15:26.095 [info] Not activating extension 'redhat.fabric8-analytics': Timed out while searching for 'workspaceContains' pattern **/package.json,**/pom.xml,**/go.mod,**/requirements.txt
+2024-09-10 08:15:26.095 [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-09-10 08:15:26.096 [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-09-10 08:15:26.097 [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2024-09-10 08:15:26.098 [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2024-09-10 08:15:26.249 [info] Eager extensions activated
+2024-09-10 08:15:26.249 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 08:15:26.250 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 08:15:26.250 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 08:15:26.251 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 08:15:26.252 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-10 08:15:29.400 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-10 08:15:29.401 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-10 08:15:29.402 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
